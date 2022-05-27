@@ -1,0 +1,33 @@
+.container{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    margin: 200px auto;
+}
+.up{
+    text-align: center;
+    height: 50%;
+    width: 100%;
+    padding-top: 40px;
+}
+.btn-wrapper{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.btn{
+    height: 50px;
+    width: 28%;
+    border-radius: 10px;
+    border: 0.3px solid black;
+}
+.inp{
+    height: 50px;
+    width: 68%;
+    border-radius: 10px;
+    border: 0.3px solid black;
+    padding: 5px;
+}
+
